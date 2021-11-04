@@ -5,7 +5,7 @@ from serial import Serial
 
 
 # change below parameters as per need
-com_port = "COM9"
+com_port = "COM[PORT_NUMBER]"
 baud_rate = 9600
 timeout = 0.0
 encoding = 'utf-8'
