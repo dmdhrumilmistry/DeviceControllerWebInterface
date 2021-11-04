@@ -1,5 +1,21 @@
 # Device Controller Web Interface
 
+This is an Django Application for [Device Controller Library](https://github.com/dmdhrumilmistry/DeviceController) used to control board pins using a website.
+
+## Screenshots
+- Login Page
+
+    ![Login Page](https://github.com/dmdhrumilmistry/DeviceControllerWebInterface/blob/main/.images/LoginPage.png?raw=True)
+  
+- Devices Control Page
+
+    ![Control Page](https://github.com/dmdhrumilmistry/DeviceControllerWebInterface/blob/main/.images/ControlPage.png)
+
+- Devices Admin Page
+
+    ![Admin Page](https://github.com/dmdhrumilmistry/DeviceControllerWebInterface/blob/main/.images/DevicesAdminPage.png)
+
+
 ## Installation
 
 - Install python 3.7 or above
